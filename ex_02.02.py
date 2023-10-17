@@ -1,0 +1,7 @@
+#2.2 Write a program that uses input to prompt a user for their name and then
+# pop-up box when you are prompted so your output will match the desired output.
+
+# The code below almost works
+
+name = input("Enter your name: ")
+print("Hello " + name)
